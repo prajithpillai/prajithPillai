@@ -14,4 +14,3 @@ My Skills:
 - Data Querying and Manipulation using SQL.
 <br>
 <br>
-My Projects:
