@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**prajithpillai/prajithPillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+<br>
+This is Prajith Pillai from Bengaluru, India. As a dedicated Data Analyst, I bring a range of skills to the table, including proficiency in MS Excel, Power BI, Tableau and SQL.
+<br>
+<br>
+My Skills:
+<br>
+- Reporting, Data Cleaning and Analysis using Advanced Excel.
+<br>
+- Data Visualizations using Power BI & Tableau.
+<br>
+- Data Querying and Manipulation using SQL.
+<br>
+<br>
+My Projects:
